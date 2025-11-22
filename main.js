@@ -34,6 +34,7 @@ onload = () => {
     "Hoy celebramos tres meses, pero yo celebro tu existencia entera.",
     "Lo mejor que me pasó… fuiste tú.",
     "TE AMO INFINITO, MI AMOR COMPLETO💜🤍💜🤍",
+    "FELÍZ ANIVERSARIO!!!!!!💜🤍💜🤍",
   ];
 
   let index = 0;
